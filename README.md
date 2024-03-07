@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Coding for fun 🙂 
-- 🌱 I’m currently learning C++/Python
+- 🌱 I’m currently learning Python
 
 ---
 
